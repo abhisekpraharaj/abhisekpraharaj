@@ -1,5 +1,13 @@
+<div align="center">
+  
 # Hi there 👋, I'm Abhisek Praharaj!  
 ### A Researcher and Developer Bridging Science and Code 🚀
+
+</div>
+
+<div align="right">
+    <iframe src="https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7" width="240" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
 
 ![Profile views](https://komarev.com/ghpvc/?username=abhisekpraharaj&color=brightgreen)  
 ![GitHub followers](https://img.shields.io/github/followers/abhisekpraharaj?label=Follow&style=social)  
@@ -34,16 +42,15 @@ From machine learning models to hands-on nuclear physics projects, explore my wo
 ---
 
 ## 🛠️ **Languages and Tools**:
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)  
-![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)  
-![CERN ROOT](https://img.shields.io/badge/-CERN%20ROOT-05122A?style=flat&logo=root)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)  
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)  
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)  
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)  
-![AI/ML](https://img.shields.io/badge/-AI%2FML-05122A?style=flat&logo=ai)
+
+<div align="center">
+
+| ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) | ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow) | ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras) |  
+| --- | --- | --- | --- |
+| ![CERN ROOT](https://img.shields.io/badge/-CERN%20ROOT-05122A?style=flat&logo=root) | ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code) | ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux) | ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu) |  
+| ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows) | ![AI/ML](https://img.shields.io/badge/-AI%2FML-05122A?style=flat&logo=ai) | |
+
+</div>
 
 ---
 
@@ -69,10 +76,3 @@ From machine learning models to hands-on nuclear physics projects, explore my wo
 > “I believe in the power of combining **science** and **technology** to create solutions that make a difference.” 💡
 
 **Last updated on:** *October 1, 2024*
-
----
-
-<div align="right">
-    <iframe src="https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7" width="240" height="240" style="margin-left:10px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-    <p><a href="https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7">via GIPHY</a></p>
-</div>
