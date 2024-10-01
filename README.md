@@ -8,7 +8,7 @@
 
 ---
 
-<img src="https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7" width="300"/>
+<img src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=790b7611tf4kicx46gsgbgxhkey1aybjg23b9lqgkyg0y0ma&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"/>
 
 - 🌐 **[Website](https://abhisekpraharaj.github.io/)** ✅
 - 🔥 **[Projects](https://your-projects-section-link.com)** 🌟
