@@ -6,7 +6,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/abhisekpraharaj?label=Follow&style=social)  
 ![GitHub stars](https://img.shields.io/github/stars/abhisekpraharaj?style=social)  
 
-- 🕸️ [GitHub](https://abhisekpraharaj.github.io/)✅
+- 🕸️ [Website](https://abhisekpraharaj.github.io/)✅
 
 
 </div>
