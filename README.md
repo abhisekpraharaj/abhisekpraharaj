@@ -6,7 +6,7 @@
 </div>
 
 <div align="right">
-    <iframe src="https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7" width="240" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+    <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="240" height="240" />
 </div>
 
 ![Profile views](https://komarev.com/ghpvc/?username=abhisekpraharaj&color=brightgreen)  
