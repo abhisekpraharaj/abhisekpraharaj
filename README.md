@@ -13,6 +13,11 @@
 
 <div align="center">
     <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="240" height="240" />
+
+<div align="right">
+  <a href="https://your-projects-section-link.com" target="_blank" style="display: inline-block; padding: 10px 20px; color: #fff; background-color: #007bff; border-radius: 5px; text-decoration: none; box-shadow: 0 4px 20px rgba(0, 123, 255, 0.5); transition: background-color 0.3s, box-shadow 0.3s;">
+    Projects 🌟
+  </a>
 </div>
 
 
