@@ -7,16 +7,15 @@
 
 </div>
 
-<div align="center">
+<div align="left">
     <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="200" height="200" />
-
-<div align="right">
+</div>
     ![Profile views](https://komarev.com/ghpvc/?username=abhisekpraharaj&color=brightgreen)  
     ![GitHub followers](https://img.shields.io/github/followers/abhisekpraharaj?label=Follow&style=social)  
     ![GitHub stars](https://img.shields.io/github/stars/abhisekpraharaj?style=social)  
 
     - 🕸️ [Website](https://abhisekpraharaj.github.io/)✅
-</div>
+
 
 
 ---
