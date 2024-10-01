@@ -2,17 +2,20 @@
   
 # Hi there 👋, I'm Abhisek Praharaj!  
 ### A Researcher and Developer Bridging Science and Code 🚀
-![Profile views](https://komarev.com/ghpvc/?username=abhisekpraharaj&color=brightgreen)  
-![GitHub followers](https://img.shields.io/github/followers/abhisekpraharaj?label=Follow&style=social)  
-![GitHub stars](https://img.shields.io/github/stars/abhisekpraharaj?style=social)  
 
-- 🕸️ [Website](https://abhisekpraharaj.github.io/)✅
 
 
 </div>
 
 <div align="center">
     <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="200" height="200" />
+
+<div align="right">
+    ![Profile views](https://komarev.com/ghpvc/?username=abhisekpraharaj&color=brightgreen)  
+    ![GitHub followers](https://img.shields.io/github/followers/abhisekpraharaj?label=Follow&style=social)  
+    ![GitHub stars](https://img.shields.io/github/stars/abhisekpraharaj?style=social)  
+
+    - 🕸️ [Website](https://abhisekpraharaj.github.io/)✅
 </div>
 
 
