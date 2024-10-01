@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Abhisek Praharaj!  
 ### A Researcher and Developer Bridging Science and Code 🚀
 
-![Profile views](https://gpvc.arturio.dev/abhisekpraharaj)  
-![GitHub followers](https://img.shields.io/github/followers/abhisekpraharaj?label=Follow&style=social) 
+![Profile views](https://komarev.com/ghpvc/?username=abhisekpraharaj&color=brightgreen)  
+![GitHub followers](https://img.shields.io/github/followers/abhisekpraharaj?label=Follow&style=social)  
 ![GitHub stars](https://img.shields.io/github/stars/abhisekpraharaj?style=social)  
 
 ---
@@ -24,30 +24,32 @@ From machine learning models to hands-on nuclear physics projects, explore my wo
 ### 💬 Want to chat? Ask me about:
 - 📊 **Nuclear Physics:** Let's discuss quantum mechanics, nuclear experiments, or any breakthrough research.
 - 🧑‍💻 **Deep Learning:** CNN, data augmentation, and hyperparameter tuning.
-- 
+
+---
 
 ### 📫 How to reach me:
 - ✉️ **Email:** apraharaj1604@gmail.com
-- 💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/starky2000/)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/starky2000/](https://www.linkedin.com/in/starky2000/)
 
 ---
 
 ## 🛠️ **Languages and Tools**:
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)  
+![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)  
+![CERN ROOT](https://img.shields.io/badge/-CERN%20ROOT-05122A?style=flat&logo=root)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)  
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)  
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)  
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)  
 ![AI/ML](https://img.shields.io/badge/-AI%2FML-05122A?style=flat&logo=ai)
 
 ---
 
 ### 🌐 **Technologies I’ve Worked With**:
-- **Machine Learning Frameworks:** TensorFlow, Keras, Pytorch
-- **Scientific Computing:** SciPy, NumPy
+- **Machine Learning Frameworks:** TensorFlow, Keras, PyTorch
+- **Scientific Computing:** SciPy, NumPy, CERN ROOT
 - **Operating Systems:** Linux, Ubuntu, Windows
 - **Version Control:** GitHub
 
@@ -59,11 +61,18 @@ From machine learning models to hands-on nuclear physics projects, explore my wo
 ---
 
 ### 🔗 **Let’s Connect**:
-- 🔗 [LinkedIn](https://www.linkedin.com/in/starky2000/) 
-- 💻 [GitHub](https://github.com/abhisekpraharaj) 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/starky2000/)  
+- 💻 [GitHub](https://github.com/abhisekpraharaj)
 
 ---
 
-> “I believe in the power of combining **science** and **technology** to create solutions that make a difference.” 💡  
+> “I believe in the power of combining **science** and **technology** to create solutions that make a difference.” 💡
 
 **Last updated on:** *October 1, 2024*
+
+---
+
+<div align="right">
+    <iframe src="https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7" width="240" height="240" style="margin-left:10px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+    <p><a href="https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7">via GIPHY</a></p>
+</div>
