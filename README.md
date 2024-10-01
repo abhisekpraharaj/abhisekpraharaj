@@ -1,24 +1,18 @@
-<div align="center"> 
+# Hi there 👋, I'm Abhisek Praharaj!
 
-# Hi there 👋, I'm Abhisek Praharaj!  
 ### A Researcher and Developer Bridging Science and Code 🚀
 
-</div>
+![profile views](https://komarev.com/ghpvc/?username=abhisekpraharaj&color=brightgreen)
+![GitHub followers](https://img.shields.io/github/followers/abhisekpraharaj?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/abhisekpraharaj?style=social)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="200" height="200" />
-</div>
+---
 
-<div align="center">
+<img src="https://media.giphy.com/media/LPYq2VfOIgoRG9QBLh/giphy.gif" width="300"/>
 
-</div>
-  ![Profile views](https://komarev.com/ghpvc/?username=abhisekpraharaj&color=brightgreen)  
-  ![GitHub followers](https://img.shields.io/github/followers/abhisekpraharaj?label=Follow&style=social)  
-  ![GitHub stars](https://img.shields.io/github/stars/abhisekpraharaj?style=social)  
-  <br>
-  - 🕸️ [Website](https://abhisekpraharaj.github.io/)✅  
-  <br>
-  - [Projects 🌟](https://your-projects-section-link.com)
+- 🌐 **[Website](https://abhisekpraharaj.github.io/)** ✅
+- 🔥 **[Projects](https://your-projects-section-link.com)** 🌟
+
 
 
 
