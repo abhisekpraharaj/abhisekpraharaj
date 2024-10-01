@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   
 # Hi there 👋, I'm Abhisek Praharaj!  
 ### A Researcher and Developer Bridging Science and Code 🚀
@@ -9,7 +9,7 @@
 
 </div>
 
-<div align="left">
+<div align="right">
     <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="240" height="240" />
 </div>
 
