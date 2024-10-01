@@ -10,6 +10,8 @@
 </div>
 
 <div align="center">
+
+</div>
   ![Profile views](https://komarev.com/ghpvc/?username=abhisekpraharaj&color=brightgreen)  
   ![GitHub followers](https://img.shields.io/github/followers/abhisekpraharaj?label=Follow&style=social)  
   ![GitHub stars](https://img.shields.io/github/stars/abhisekpraharaj?style=social)  
@@ -17,7 +19,7 @@
   - 🕸️ [Website](https://abhisekpraharaj.github.io/)✅  
   <br>
   - [Projects 🌟](https://your-projects-section-link.com)
-</div>
+
 
 
 
