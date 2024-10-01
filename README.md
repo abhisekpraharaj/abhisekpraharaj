@@ -19,7 +19,7 @@
 ---
 
 ### 🔭 What I’m working on:
-- 🧑‍🔬 **Experiment Nuclear Physics Research:** Applying data-driven methods to understand the mysteries of atomic particles.
+- 🧑‍🔬 **Exploring Physics Research with AI:** Leveraging data-driven techniques and AI to uncover the mysteries of complex physical phenomena.
 - 🤖 **Deep Learning Models:** Developing cutting-edge models and beyond.
   
 ### 🌱 What I’m learning:
