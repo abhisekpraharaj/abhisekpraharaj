@@ -1,26 +1,22 @@
 <div align="center"> 
-  
+
 # Hi there 👋, I'm Abhisek Praharaj!  
 ### A Researcher and Developer Bridging Science and Code 🚀
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+</div>
 
-  <div align="left">
-      <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="200" height="200" />
-  </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="200" height="200" />
+</div>
 
-  <div align="right">
-      ![Profile views](https://komarev.com/ghpvc/?username=abhisekpraharaj&color=brightgreen)  
-      ![GitHub followers](https://img.shields.io/github/followers/abhisekpraharaj?label=Follow&style=social)  
-      ![GitHub stars](https://img.shields.io/github/stars/abhisekpraharaj?style=social)  
-      <br>
-      <a href="https://your-projects-section-link.com" target="_blank" style="display: inline-block; padding: 10px 20px; color: #fff; background-color: #007bff; border-radius: 5px; text-decoration: none; box-shadow: 0 4px 20px rgba(0, 123, 255, 0.5); transition: background-color 0.3s, box-shadow 0.3s;">
-          Projects 🌟
-      </a>
-      <br>
-      - 🕸️ [Website](https://abhisekpraharaj.github.io/)✅
-  </div>
-
+<div align="center">
+  ![Profile views](https://komarev.com/ghpvc/?username=abhisekpraharaj&color=brightgreen)  
+  ![GitHub followers](https://img.shields.io/github/followers/abhisekpraharaj?label=Follow&style=social)  
+  ![GitHub stars](https://img.shields.io/github/stars/abhisekpraharaj?style=social)  
+  <br>
+  - 🕸️ [Website](https://abhisekpraharaj.github.io/)✅  
+  <br>
+  - [Projects 🌟](https://your-projects-section-link.com)
 </div>
 
 
