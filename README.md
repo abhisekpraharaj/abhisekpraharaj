@@ -23,8 +23,7 @@
 - 🤖 **Deep Learning Models:** Developing cutting-edge models and beyond.
   
 ### 🌱 What I’m learning:
-- 🔍 **Advanced Machine Learning Algorithms** to dive deeper into complex datasets.
-- 📈 **Hyperparameter Tuning** for improving model accuracy.
+- 🔍 **Advanced Machine Learning Algorithms like PINN** to dive deeper into complex datasets.
 - 🧠 **Artificial Intelligence in Scientific Research:** Blending theoretical physics with AI techniques to solve problems.
 
 ---
