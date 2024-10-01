@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   
 # Hi there 👋, I'm Abhisek Praharaj!  
 ### A Researcher and Developer Bridging Science and Code 🚀
