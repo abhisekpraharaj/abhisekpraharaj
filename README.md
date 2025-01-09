@@ -11,7 +11,7 @@
 <img src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=790b7611tf4kicx46gsgbgxhkey1aybjg23b9lqgkyg0y0ma&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" align="right" />
 
 - 🌐 **[Website](https://abhisekpraharaj.github.io/)** 
-- 🔥 **[Projects](https://your-projects-section-link.com)**
+- 🔥 **[Projects](https://abhisekpraharaj.github.io/projects.html)**
 
 ---
 
